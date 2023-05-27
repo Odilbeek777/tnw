@@ -1,0 +1,264 @@
+
+@media screen and (max-width:1140px) {
+    .news__desc-p {
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .news__desc-h {
+        font-size: 19px;
+        line-height: 22px;
+    }
+
+    .news__img img {
+        max-width: 500px;
+        width: 100%;
+        
+    }
+
+    .banner__img img {
+        max-width: 1024px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:1070px) {
+    .news__desc{
+        max-width: 470px;
+    }
+    
+}
+
+@media screen and (max-width:930px) {
+    .news__desc-p {
+        font-size: 11px;
+        line-height: 15px;
+    }
+
+    .news__desc-h {
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .news__wrap {
+        height: 320px;
+    }
+
+    .header__nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .footer__nav {
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+    
+ 
+
+    .news__desc{
+        max-width: 400px;
+    }
+
+    .news__img img {
+        width: 400px;
+        height: 300px;
+    }
+}
+
+
+@media screen and (max-width:860px) {
+    .news__img img {
+        width: 370px;
+        height: 270px;
+    }
+    .news__desc-h{
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .news__desc{
+        max-width: 380px;
+    }
+}    
+
+@media screen and (max-width:820px) {
+    .news__img img {
+        width: 350px;
+        height: 250px;
+    }
+    .news__desc{
+        max-width: 360px;
+    }
+    
+}
+
+@media screen and (max-width:770px) {
+    .list__link {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .cards__wrap {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .cards__item {
+        max-width: 734px;
+        text-align: center;
+    }
+
+    .cards__item img {
+        max-width: 400px;
+        margin: 0 auto;
+
+    }
+
+    .cards__item-desc-1 {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+
+
+    .cards__item-1 {
+        max-width: 734px;
+        text-align: center;
+    }
+
+    .cards__item-desc-2 {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+    .cards__item-1 img {
+        max-width: 400px;
+        margin: 0 auto;
+
+    }
+
+    .cards__item-2 {
+        max-width: 734px;
+        text-align: center;
+    }
+
+    .cards__item-desc-3 {
+        max-width: 500px;
+        margin: 0 auto;
+        height: 170px;
+    }
+
+    .cards__item-2 img {
+        max-width: 400px;
+        margin: 0 auto;
+
+    }
+
+    .cards__item-3 {
+        max-width: 734px;
+        text-align: center;
+    }
+
+    .cards__item-desc-4 {
+        max-width: 500px;
+        margin: 0 auto;
+        height: 170px;
+    }
+
+    .cards__item-3 img {
+        max-width: 400px;
+        margin: 0 auto;
+
+    }
+
+
+    .news__desc-p{
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .news__desc{
+        max-width: 320px;
+    }
+    .news__img img {
+        width: 320px;
+        height: 220px;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .news__wrap  {
+        flex-direction: column;
+        align-items: center; 
+        gap: 5px;
+    }
+    .news__img img {
+        width: 400px;
+        height: 250px;
+    }
+    .news{
+        height: 600px;
+    }
+
+    .news__desc{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 400px;
+    }
+    .news__desc-h{
+        text-align: center;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .news__desc-p{
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
+@media screen and (max-width:600px) {
+    .nav__list{
+        flex-direction: column;
+    }
+    
+}
+@media screen and (max-width:480px) {
+    .cards__item-p:last-child {
+        padding-bottom: 10px;
+    }
+    
+}
+
+@media screen and (max-width:440px) {
+    .news__img img {
+        width: 360px;
+    }
+    .news__desc{
+        max-width: 360px;
+    }
+    .news__desc-h{
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .news__desc-p{
+        font-size: 11px;
+        line-height: 15px;
+    }
+}
+
+@media screen and (max-width:395px) {
+
+        .news__img img {
+        width: 300px;
+    }
+    .news__desc{
+        max-width: 290px;
+    }
+    .news__desc-h{
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .news__desc-p{
+        font-size: 10px;
+        line-height: 14px;
+    }
+}
